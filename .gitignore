@@ -76,3 +76,4 @@ obj/project.assets.json
 obj/project.nuget.cache
 ODataOrders.csproj.user
 Properties/launchSettings.json
+.vs/ODataOrders/v16/.suo
